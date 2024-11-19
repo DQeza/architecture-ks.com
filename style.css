@@ -1,0 +1,163 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.cover{
+    background-image: url(cover.jpg);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 1000px;
+
+}
+.heading{
+    color: white;
+    font-size: 60px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    width: 110px;
+    background-color: rgb(255, 208, 0);
+    color: white;
+    
+}
+
+
+.boxes{
+    display: flex;
+    padding:20px ;
+  justify-content: center;
+  margin-top:-90px ;
+  justify-content: space-around;
+ 
+  }
+.box1{
+    text-align: center;
+background-color: rgb(238, 238, 238);
+margin: 10px;
+padding-top:65px;
+padding-bottom: 55px;
+padding-left: 10px;
+padding-right: 10px;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+
+
+}
+
+.box2{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    margin: 10px;
+    padding-top:65px;
+    padding-bottom: 55px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+
+.box3{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    margin: 10px;
+    padding-top:65px;
+    padding-bottom: 55px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    
+    
+
+}
+
+i{
+    font-size: 50px;
+    color: rgba(255, 187, 0, 0.767);
+    
+ 
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+}
+
+.pro{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.he{
+    text-align: center;
+}
+
+
+.imgg{
+    border-radius: 560px;
+}
+
+
+.people{
+    display: flex;
+    
+    justify-content: space-evenly;
+}
+
+
+
+.stairs{
+    background-image: url(stairs.jpg);
+    height: 350px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.blogs{
+    display: flex;
+    justify-content: space-around;
+    
+   
+    
+}
+
+.boxess{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+.t{
+    text-align: center;
+}
+
+.boxxx1{
+    padding: 10px;
+}
+
+
+.pjesaf{
+    background-image: url(foto12.jpg);
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+ 
+
+
+
